@@ -8,7 +8,7 @@ Solar Observation Report in 2024
 
 ## 2. Analysis with python & python packages
 
-- astropy, opencv, skimage, etc
+- astropy, opencv, skimage, etc.
 <img src="image/Sun_ex.png" width="500" height="500">
 
 
