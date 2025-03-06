@@ -19,14 +19,18 @@ Solar Observation Report in 2024
   + **(STARA)** Using functions provided by the sunpy package
   + **(ASSA)** Refer to the results on the webpage `https://spaceweather.kasa.go.kr/flare.do`
 
-<img src="image/ex_edges_detected.png" width="500" height="400">
-<img src="image/ex_hmi_map.png" width="500" height="420">
-<img src="image/ex_2024_10_11.png" width="500" height="500">
+<img src="image/ex_edges_detected.png" width="500" height="350">
+<img src="image/ex_hmi_map.png" width="500" height="400">
 
 
 ## 4. Visualizing the trends of sunspots
 
- - <img src="image/time_series_with_LOWESS.png" width="500" height="500">
+- Time Series with LOWESS smoothing of sunspots
+
+![ts_viz](image/time_series_with_LOWESS.png)
 
 
 
+## 5. Summary and Reporting
+
+![abstract](image/process.png)
