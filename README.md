@@ -1,7 +1,7 @@
 # sun_2024
 Solar Observation Report in 2024
 
-## 1. Gathering data
+## 1. Data gathering
 - 48 data collected from September 10, 2024 to February 13, 2025
 
 ![Solar_obs_copper](image/Solar_obs_copper.png)
