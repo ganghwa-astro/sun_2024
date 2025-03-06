@@ -1,7 +1,7 @@
 # sun_2024
 Solar Observation Report in 2024
 
-Report: Report_link(report_github/(250306) 24년도 종합관측보고서_1부_깃허브.pdf)
+Report: [Report_link](report_github/(250306) 24년도 종합관측보고서_1부_깃허브.pdf)
 
 ## 1. Data gathering
 - 48 data collected from September 10, 2024 to February 13, 2025
