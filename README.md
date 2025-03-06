@@ -8,13 +8,13 @@ Report folder `report_github > (250306) 24년도 종합관측보고서_1부_깃�
 
 ![Solar_obs_copper](image/Solar_obs_copper.png)
 
-## 2. Analysis with python & python packages
+## 2. Analyzing with python & python packages
 
 - astropy, opencv, skimage, etc.
 <img src="image/Sun_ex.png" width="500" height="500">
 
 
-## 3. Sunspots detecting and comparing
+## 3. Detecting and comparing sunspots
 
 - Comparing the results of the morphology, Canny Edge detector, STARA and ASSA
   + **(morphology, Edge detector)** Using functions provided by skimage, opencv package
@@ -33,6 +33,6 @@ Report folder `report_github > (250306) 24년도 종합관측보고서_1부_깃�
 
 
 
-## 5. Summary and Reporting
+## 5. Summarizing and Reporting
 
 ![abstract](image/process.png)
