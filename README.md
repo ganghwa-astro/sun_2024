@@ -10,6 +10,4 @@ Solar Observation Report in 2024
 
 - astropy, opencv, skimage, etc
 
-<img src="image/Sun_ex.png" width="500" height="300">
-
-![Sun_ex](image/Sun_ex.png)
+<img src="image/Sun_ex.png" width="500" height="500">
