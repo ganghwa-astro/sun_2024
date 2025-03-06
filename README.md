@@ -15,12 +15,18 @@ Solar Observation Report in 2024
 ## 3. Sunspots detecting and comparing
 
 - Comparing the results of the morphology, Canny Edge detector, STARA and ASSA
-  + (morphology, Edge detector) Using functions provided by skimage, opencv package
-  + (STARA) Using functions provided by the sunpy package
-  + (ASSA) Refer to the results on the webpage `https://spaceweather.kasa.go.kr/flare.do`
+  + **(morphology, Edge detector)** Using functions provided by skimage, opencv package
+  + **(STARA)** Using functions provided by the sunpy package
+  + **(ASSA)** Refer to the results on the webpage `https://spaceweather.kasa.go.kr/flare.do`
 
-![canny_edge](image/ex_edges_detected.png)
+<img src="image/ex_edges_detected.png" width="500" height="500">
+<img src="image/ex_hmi_map.png" width="500" height="500">
+<img src="image/ex_2024_10_11.png" width="500" height="500">
 
-![STARA](image/ex_hmi_map.png)
 
-![ASSA](image/ex_2024_10_11.png)
+## 4. Visualizing the trends of sunspots
+
+ - <img src="image/time_series_with_LOWESS.png" width="500" height="500">
+
+
+
